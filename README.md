@@ -1,4 +1,4 @@
-# 02_Challenge
+# 02 Refactoring and Accesibility Challenge
 
 This challenge is refactoring an existing website such that:
 
@@ -8,5 +8,5 @@ This challenge is refactoring an existing website such that:
 - It uses heading elements
 - It has a meaningful title
 
-You can see the website at [link](https://itzelmariana.github.io/02_Challenge/#search-engine-optimization).
+You can see the website at [link](https://itzelmariana.github.io/UTA-22-C02-Accessibility/).
 ![Website Picture](docs/01-html-css-git-homework-demo.png)

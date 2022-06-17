@@ -1,9 +1,12 @@
 # 02_Challenge
 
-This chalenge is refactoring existing website for search engine under the following criteria:
+This challenge is refactoring an existing website such that:
 
-- Semantic HTML elements with accesibility standard
-- Correct structure for HTML elements and CSS positioning
-- Accesible alt attributes for images
-- Heading attibutes
-- Title optimization
+- It uses semantic HTML elements with accesibility standard
+- It has correct structure for HTML elements and CSS positioning
+- It has accesible alt attributes for images
+- It uses heading elements
+- It has a meaningful title
+
+You can see the website at [link](https://itzelmariana.github.io/02_Challenge/#search-engine-optimization).
+![Website Picture](docs/01-html-css-git-homework-demo.png)

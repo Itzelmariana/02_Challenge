@@ -8,5 +8,5 @@ This challenge is refactoring an existing website such that:
 - It uses heading elements
 - It has a meaningful title
 
-You can see the website at [link](https://itzelmariana.github.io/UTA-22-C02-Accessibility/).
+You can see the website at [link](https://itzelmariana.github.io/UTA-22-M01-Accessibility/).
 ![Website Picture](docs/01-html-css-git-homework-demo.png)
